@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-12-18 20:42:38
 * @Last Modified by:   lenovo
-* @Last Modified time: 2018-12-23 16:52:36
+* @Last Modified time: 2019-01-04 18:37:31
 */
 *{
 	margin: 0;
@@ -686,8 +686,8 @@
 #img2 {
 	float:left;
     position: absolute;
-    left: 551px;
-    top: 252px;
+    left: 550px;
+    top: 251px;
     display: none;
     width: 400px;
     height: 408px;
