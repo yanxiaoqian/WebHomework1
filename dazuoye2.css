@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-12-18 20:42:38
 * @Last Modified by:   lenovo
-* @Last Modified time: 2019-01-04 18:37:31
+* @Last Modified time: 2019-01-04 18:46:04
 */
 *{
 	margin: 0;
@@ -686,8 +686,8 @@
 #img2 {
 	float:left;
     position: absolute;
-    left: 550px;
-    top: 251px;
+    left: 600px;
+    top: 252px;
     display: none;
     width: 400px;
     height: 408px;
@@ -744,7 +744,7 @@
 	opacity: 1;
 	position: fixed;
 	top: 300px;
-	left: 500px;
+	left: 530px;
 	z-index: 200;
 }
 .tjgwc{
